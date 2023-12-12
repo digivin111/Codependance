@@ -12,7 +12,7 @@
     font-size: large;
     background-color: black;
     color: white;
-    background-image: url(/folderimg/Hexagon.jpg);
+    background-image: url(folderimg/Hexagon.jpg);
   }
   
   .content {
@@ -53,7 +53,7 @@
     align-items: center;
     padding: 1.4rem 6%;
     background-color: black;
-    background-image: url(/folderimg/Hexagon2.png);
+    background-image: url(folderimg/Hexagon2.png);
     border-bottom: 2.5px solid orange;
     position: fixed;
     top: 0;
